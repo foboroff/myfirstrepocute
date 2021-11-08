@@ -1,4 +1,4 @@
-# Ludo is a G
+# CONFLICT
 
 this is not a test
 
